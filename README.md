@@ -52,3 +52,10 @@ Explore the [Materials](materials) folder for access to these resources.
 ## Contributing
 
 We welcome contributions and feedback! If you have suggestions, found errors, or want to contribute to the workshop materials, please email enquiry@farmerdecisionmaking.com or leanne.bannan@unimelb.edu.au
+
+## Credits
+This workshop and materials owe thanks to and have been adapted from the following resources:
+
+- University of Massachusetts (UMass) GIS Hub: https://gis.library.umass.edu/learning-gis/tutorials/
+- 'Learn the Basics of QGIS' by Dr Rebecca Seifried: https://umass-gis.github.io/workshops/content/basics-qgis/
+- 'Demystifying Spatial Data' by Dr Sabin Zahirovic: https://protect-au.mimecast.com/s/TFE5CBNZkphVBEWmKtzB5nP?domain=zenodo.org
