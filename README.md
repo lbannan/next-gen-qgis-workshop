@@ -9,7 +9,7 @@ The workshop is a part of the Next-Generation Agricultural Extension project hos
 ## Workshop Details
 
 - **Date:** 
-- **Time:*)**
+- **Time:**
 - **Location:** 
 - **Instructor:** 
 - **Contact:** 
