@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Introduction to QGIS Workshop from the Next-Gen Agricultural Extension Project! This repository contains resources and materials for a workshop aimed at students of the National University of Battambang, Cambodia. The workshop is designed to introduce participants to the fundamentals of QGIS, a powerful open-source Geographic Information System (GIS) software.
+Welcome to the Introduction to QGIS Workshop from the Next-Gen Agricultural Extension Project! This repository contains download links, resources and materials for a workshop created for the National University of Battambang, Cambodia. The workshop is designed to introduce participants to the fundamentals of QGIS, a powerful open-source Geographic Information System (GIS) software.
 
 The workshop is a part of the Next-Generation Agricultural Extension project hosted at The University of Melbourne and funded by the Australian Centre for International Agricultural Research. Read more about the project [here](https://farmerdecisionmaking.com/project-2/).
 
