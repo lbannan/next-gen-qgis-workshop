@@ -2,17 +2,17 @@
 
 ## Overview
 
-Welcome to the Introduction to QGIS Workshop from the Next-Gen Agricultural Extension Project! This repository contains download links, resources and materials for a workshop created for the National University of Battambang, Cambodia. The workshop is designed to introduce participants to the fundamentals of QGIS, a powerful open-source Geographic Information System (GIS) software.
+Welcome to the Introduction to QGIS Workshop from the Next-Gen Agricultural Extension Project! This repository contains download links, resources and materials for a workshop created for the National University of Battambang (NUBB), Cambodia. The workshop is designed to introduce participants to the fundamentals of QGIS, a powerful open-source Geographic Information System (GIS) software.
 
 The workshop is a part of the Next-Generation Agricultural Extension project hosted at The University of Melbourne and funded by the Australian Centre for International Agricultural Research. Read more about the project [here](https://farmerdecisionmaking.com/project-2/).
 
 ## Workshop Details
 
-- **Date:** 
-- **Time:**
-- **Location:** 
-- **Instructor:** 
-- **Contact:** 
+- **Date:** TBC February 2024
+- **Time:** 9:00am - 12:00pm
+- **Location:** Room TBC, NUBB
+- **Lead Facilitator:** Le-Anne Bannan 
+- **Contact:** enquiry@farmerdecisionmaking.com
 
 ## Contents
 
@@ -27,12 +27,12 @@ To get started with the workshop, follow these steps:
 
 1. Review the workshop agenda(#agenda) and PowerPoint(#powerpoint) which covers the basics of GIS and spatial data.
 2. Download QGIS and the sample data from downloads(#downloads).
-3. Complete workshop exercises found in the downloads(#downloads) folder.
+3. Complete workshop 'worksheet' exercises found in the downloads(#downloads) folder.
 4. Explore the additional resources provided in Further Resources(#further-resources).
 
 ## Workshop Agenda
 
-The workshop agenda outlines the topics that will be covered during the session. It is subject to change as the workshop is being developed. Check the [Workshop Agenda](workshop_agenda.md) for the latest updates.
+The workshop agenda outlines the topics that will be covered during the session. It is subject to change as the workshop is being developed.
 
 ## Workshop PowerPoint
 The PowerPoint was presented at NUBB on X. The slides and recording are available under 
