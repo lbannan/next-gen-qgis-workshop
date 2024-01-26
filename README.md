@@ -59,8 +59,10 @@ Explore the [Materials](materials) folder for access to these resources.
 We welcome contributions and feedback! If you have suggestions, found errors, or want to contribute to the workshop materials, please email enquiry@farmerdecisionmaking.com or leanne.bannan@unimelb.edu.au
 
 ## Credits
-This workshop and materials owe thanks to and have been adapted from the following resources:
+This workshop and materials owe thanks to, have been adapted from and inspired by the following resources:
 
 - University of Massachusetts (UMass) GIS Hub: https://gis.library.umass.edu/learning-gis/tutorials/
 - 'Learn the Basics of QGIS' by Dr Rebecca Seifried: https://umass-gis.github.io/workshops/content/basics-qgis/
 - 'Demystifying Spatial Data' by Dr Sabin Zahirovic: https://protect-au.mimecast.com/s/TFE5CBNZkphVBEWmKtzB5nP?domain=zenodo.org
+- University Consortium GIS&T Body of Knowledge: https://gistbok.ucgis.org/
+- Nelson, T. A., Goodchild, M. F., & Wright, D. J. (2022). Accelerating ethics, empathy, and equity in geographic information science. Proceedings of the National Academy of Sciences, 119(19), e2119967119. https://doi.org/10.1073/pnas.2119967119
