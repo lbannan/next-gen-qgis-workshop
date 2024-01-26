@@ -19,7 +19,9 @@ The workshop is a part of the Next-Generation Agricultural Extension project hos
 - [Getting Started](#getting-started)
 - [Workshop Agenda](#workshop-agenda)
 - [Downloads](#downloads)
-- [Contributing](#contributing)
+- [Further Resources](#further-resources)
+- [Contribute](#contribute)
+- [Credits](#credits)
 
 ## Getting Started
 
@@ -28,7 +30,7 @@ To get started with the workshop, follow these steps:
 1. Review the workshop agenda(#agenda) and PowerPoint(#powerpoint) which covers the basics of GIS and spatial data.
 2. Download QGIS and the sample data from downloads(#downloads).
 3. Complete workshop 'worksheet' exercises found in the downloads(#downloads) folder.
-4. Explore the additional resources provided in Further Resources(#further-resources).
+4. Continue your GIS journey by exploring the additional resources provided in Further Resources(#further-resources).
 
 ## Workshop Agenda
 
@@ -48,13 +50,11 @@ Before attending the workshop, make sure you have the following prerequisites in
 
 To continue your QGIS journey, please explore these resources:
 
-- Presentation slides
-- Exercise files
 - Additional resources
 
 Explore the [Materials](materials) folder for access to these resources.
 
-## Contributing
+## Contribute
 
 We welcome contributions and feedback! If you have suggestions, found errors, or want to contribute to the workshop materials, please email enquiry@farmerdecisionmaking.com or leanne.bannan@unimelb.edu.au
 
