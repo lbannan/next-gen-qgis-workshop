@@ -43,9 +43,10 @@ The PowerPoint was presented at NUBB on TBC. The slides and recording are availa
 
 Before attending the workshop, you will need to download and install:
 
-- QGIS software (download [here](https://qgis.org))
+- QGIS software (download [here](https://qgis.org))*
 - [data packs]
 
+*It is recommended you download the latest 'long term release' for a more stable software. This can be downloaded from [this link](https://qgis.org/downloads/QGIS-OSGeo4W-3.28.15-1.msi).
 ## Further Resources
 
 To continue your QGIS journey, please explore these resources:
