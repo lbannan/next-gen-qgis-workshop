@@ -35,11 +35,11 @@ To get started with the workshop, follow these steps:
 
 ## Workshop Agenda
 
-9:00: Start time
-9:00-10:00: What is GIS? Introduction to the uses of GIS in a Cambodian context, spatial data, data management and open-source communities
-10:00-10:30: Break
-10:30-12:00: QGIS Practical Workshop: Hands on workshop where participants will be able to use open-source data and software. At the end of the workshop, participants will have completed a map to assist with data driven decision making.
-12:00: Finish time
+- **9:00:** Start time
+- **9:00-10:00:** What is GIS? Introduction to the uses of GIS in a Cambodian context, spatial data, data management and open-source communities
+- **10:00-10:30:** Break
+- **10:30-12:00:** QGIS Practical Workshop: Hands on workshop where participants will be able to use open-source data and software. At the end of the workshop, participants will have completed a map to assist with data driven decision making.
+- **12:00:** Finish time
 
 ## Workshop PowerPoint
 The PowerPoint was presented at NUBB on 2 February 2024. The slides and recording are available under for download here.
