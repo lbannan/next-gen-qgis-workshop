@@ -10,7 +10,7 @@ The workshop is a part of the Next-Generation Agricultural Extension project hos
 
 - **Date:** 2 February 2024
 - **Time:** 9:00am - 12:00pm
-- **Location:** Room TBC, NUBB
+- **Location:** National University of Battambang, Cambodia
 - **Lead Facilitator:** Le-Anne Bannan 
 - **Contact:** enquiry@farmerdecisionmaking.com
 
@@ -20,7 +20,7 @@ The workshop is a part of the Next-Generation Agricultural Extension project hos
 - [Workshop Agenda](#workshop-agenda)
 - [Downloads](#downloads)
 - [Further Resources](#further-resources)
-- [Contribute](#contribute)
+- [Spatial Data Repositories](#spatial-data-repositories)
 - [Feedback](#feedback)
 - [Credits](#credits)
 
@@ -81,6 +81,16 @@ To continue your QGIS journey, please explore these resources:
 - Nelson, T. A., Goodchild, M. F., & Wright, D. J. (2022). Accelerating ethics, empathy, and equity in geographic information science. Proceedings of the National Academy of Sciences, 119(19), e2119967119. https://doi.org/10.1073/pnas.2119967119
 - Yasuoka, J., Nanishi, K., Kikuchi, K., Suzuki, S., Ly, P., Thavrin, B., Omatsu, T., & Mizutani, T. (2018). Barriers for pregnant women living in rural, agricultural villages to accessing antenatal care in Cambodia: A community-based cross-sectional study combined with a geographic information system. PLOS ONE, 13(3), e0194103. https://doi.org/10.1371/journal.pone.0194103
 
+### News articles:
+- Phnom Penh Post (2020). Forest watchdog warned against satellite imagery. https://www.phnompenhpost.com/national/forest-watchdog-warned-against-satellite-imagery
+
+## Spatial Data Repositories:
+- DHS GPS data collected by USAID: https://dhsprogram.com/Methodology/GPS-Data.cfm
+- Food and Agriculture Organisation (Cambodia): https://data.apps.fao.org/map/catalog/static/search?keyword=Cambodia
+- Humanitarian Data Exchange: https://data.humdata.org/dataset/cod-ab-khm?
+- ESRI Datasets: https://doc.arcgis.com/en/esri-demographics/latest/regional-data/cambodia.htm
+- Open Development Cambodia: https://data.opendevelopmentcambodia.net/km/dataset/?organization=cambodia-organization
+- Open Street Map: https://www.openstreetmap.org/
 
 ## Feedback
 
