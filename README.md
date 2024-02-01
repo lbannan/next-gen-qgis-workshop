@@ -43,7 +43,7 @@ To get started with the workshop, follow these steps:
 - **12:00:** Finish time
 
 ## Workshop PowerPoint
-The PowerPoint was presented at NUBB on 2 February 2024. The slides and recording are available under for download [here](https://github.com/lbannan/next-gen-qgis-workshop/raw/main/nubb_powerpoint_presentation.pptx).
+[Download the PowerPoint slides here](https://github.com/lbannan/next-gen-qgis-workshop/raw/main/nubb_powerpoint_presentation.pptx).
 
 ## Downloads
 
