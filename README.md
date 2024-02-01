@@ -18,6 +18,7 @@ The workshop is a part of the Next-Generation Agricultural Extension project hos
 
 - [Getting Started](#getting-started)
 - [Workshop Agenda](#workshop-agenda)
+- [Workshop Powerpoint](#workshop-powerpoint)
 - [Downloads](#downloads)
 - [Further Resources](#further-resources)
 - [Spatial Data Repositories](#spatial-data-repositories)
@@ -42,7 +43,7 @@ To get started with the workshop, follow these steps:
 - **12:00:** Finish time
 
 ## Workshop PowerPoint
-The PowerPoint was presented at NUBB on 2 February 2024. The slides and recording are available under for download here.
+The PowerPoint was presented at NUBB on 2 February 2024. The slides and recording are available under for download [here](https://github.com/lbannan/next-gen-qgis-workshop/raw/main/nubb_powerpoint_presentation.pptx).
 
 ## Downloads
 
