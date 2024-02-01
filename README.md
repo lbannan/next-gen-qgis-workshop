@@ -51,6 +51,7 @@ Before attending the workshop, you will need to download and install:
 
 - QGIS software (download [here](https://qgis.org))*
 - Sample data (download [here](https://github.com/lbannan/next-gen-qgis-workshop/raw/main/sample_data.zip))
+- Worksheet (download [here](https://github.com/lbannan/next-gen-qgis-workshop/blob/main/worksheet.pdf))
 
 *It is recommended you download the latest 'long term release' of QGIS. At time of writing, this is QGIS 3.28 can be downloaded using [this link](https://qgis.org/downloads/QGIS-OSGeo4W-3.28.15-1.msi).
 ## Further Resources
