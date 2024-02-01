@@ -32,7 +32,7 @@ To get started with the workshop, follow these steps:
 1. Review the [agenda](#workshop-agenda) and [presentation slides](https://github.com/lbannan/next-gen-qgis-workshop/raw/main/nubb_powerpoint_presentation.pptx) which cover the basics of GIS and spatial data.
 2. Download QGIS and the sample data from [downloads](#downloads).
 3. Complete workshop 'worksheet' exercises found in the [downloads](#downloads) folder.
-4. Continue your GIS journey by exploring the additional resources provided in [Further Resources](#further-resources).
+4. Continue your GIS journey by exploring the additional resources provided in ['Further Resources'](#further-resources).
 
 ## Workshop Agenda
 
@@ -50,7 +50,7 @@ To get started with the workshop, follow these steps:
 Before attending the workshop, you will need to download and install:
 
 - QGIS software (download [here](https://qgis.org))*
-- [data packs]
+- [Sample Data](https://github.com/lbannan/next-gen-qgis-workshop/raw/main/sample_data.zip)
 
 *It is recommended you download the latest 'long term release' of QGIS. At time of writing, this is QGIS 3.28 can be downloaded using [this link](https://qgis.org/downloads/QGIS-OSGeo4W-3.28.15-1.msi).
 ## Further Resources
