@@ -29,7 +29,7 @@ The workshop is a part of the Next-Generation Agricultural Extension project hos
 
 To get started with the workshop, follow these steps:
 
-1. Review the [workshop agenda](#workshop-agenda) and PowerPoint slides which cover the basics of GIS and spatial data.
+1. Review the [agenda](#workshop-agenda) and [presentation slides](https://github.com/lbannan/next-gen-qgis-workshop/raw/main/nubb_powerpoint_presentation.pptx) which cover the basics of GIS and spatial data.
 2. Download QGIS and the sample data from [downloads](#downloads).
 3. Complete workshop 'worksheet' exercises found in the [downloads](#downloads) folder.
 4. Continue your GIS journey by exploring the additional resources provided in [Further Resources](#further-resources).
