@@ -83,7 +83,12 @@ To continue your QGIS journey, please explore these resources:
 - Yasuoka, J., Nanishi, K., Kikuchi, K., Suzuki, S., Ly, P., Thavrin, B., Omatsu, T., & Mizutani, T. (2018). Barriers for pregnant women living in rural, agricultural villages to accessing antenatal care in Cambodia: A community-based cross-sectional study combined with a geographic information system. PLOS ONE, 13(3), e0194103. https://doi.org/10.1371/journal.pone.0194103
 
 ### News articles:
+- Australian Broadcasting Network (2016). Medieval cities hidden under jungle in Cambodia revealed using lasers, archaeologists say. https://www.abc.net.au/news/2016-06-12/lasers-uncover-hidden-secrets-of-cambodias-ancient-cities/7503760
+- Mongabay (2017). NASA releases images of dramatic deforestation in Cambodia. https://news.mongabay.com/2017/01/nasa-releases-images-of-dramatic-cambodia-deforestation/#:~:text=concessions%20by%202014.-,Cambodia%20lost%20around%201.59%20million%20hectares%20of%20tree%20cover%20between,degraded%20between%202000%20and%202013.
 - Phnom Penh Post (2020). Forest watchdog warned against satellite imagery. https://www.phnompenhpost.com/national/forest-watchdog-warned-against-satellite-imagery
+- Phnom Penh Post (2023). Starlink Paves Way for Smart Farming in Cambodia. https://www.phnompenhpost.com/national-post-depth/starlink-paves-way-smart-farming-cambodia
+- The Guardian (2023). Archaeology world mourns Damian Evans, who discovered medieval cities near Angkor Wat. https://www.theguardian.com/science/2023/sep/14/damian-evans-death-archaeologist-dies-discovered-medieval-cities-near-angkor-wat
+
 
 ## Spatial Data Repositories:
 - DHS GPS data collected by USAID: https://dhsprogram.com/Methodology/GPS-Data.cfm
