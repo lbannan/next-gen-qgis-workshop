@@ -18,7 +18,7 @@ The workshop is a part of the Next-Generation Agricultural Extension project hos
 
 - [Getting Started](#getting-started)
 - [Workshop Agenda](#workshop-agenda)
-- [Workshop Powerpoint](#workshop-powerpoint)
+- [Workshop PowerPoint](#workshop-powerpoint)
 - [Downloads](#downloads)
 - [Further Resources](#further-resources)
 - [Spatial Data Repositories](#spatial-data-repositories)
