@@ -56,18 +56,21 @@ Before attending the workshop, you will need to download and install:
 
 To continue your QGIS journey, please explore these resources:
 
-# Tutorials and Guides
+### Tutorials and Guides
 - University of Massachusetts (UMass) GIS Hub: https://gis.library.umass.edu/learning-gis/tutorials/
 - 'Learn the Basics of QGIS' by Dr Rebecca Seifried: https://umass-gis.github.io/workshops/content/basics-qgis/
 - 'Demystifying Spatial Data' by Dr Sabin Zahirovic: https://protect-au.mimecast.com/s/TFE5CBNZkphVBEWmKtzB5nP?domain=zenodo.org
 - 'QGIS Training Tutorials' by Statistics Canada: https://www.youtube.com/watch?v=8oEnJvLzDnQ&list=PLhDwnGYSFgBHsRmrJmmOVbFi3uDBvz-FI&pp=iAQB
 
-# Open source resources
+### Open source resources
 - University Consortium GIS&T Body of Knowledge: https://gistbok.ucgis.org/
 - QGIS Tutorials and Tips: https://www.qgistutorials.com/en/
 - QGIS Training Manual: https://docs.qgis.org/3.28/en/docs/training_manual/index.html
 
-# Academic writing and theory
+### Find support from the GIS community
+- Support: https://www.qgis.org/en/site/forusers/support.html
+
+### Academic writing and theory
 - Chang, K. T. (2015). Introduction to geographic information systems. Boston: Mcgraw-hill.
 - Evans, D. (2016). Airborne laser scanning as a method for exploring long-term socio-ecological dynamics in Cambodia. Journal of Archaeological Science, 74, 164–175. https://doi.org/10.1016/j.jas.2016.05.009
 - Goodchild, M. F., Yuan, M., & Cova, T. J. (2007). Towards a general theory of geographic representation in GIS. International Journal of Geographical Information Science, 21(3), 239–260. https://doi.org/10.1080/13658810600965271
@@ -79,7 +82,7 @@ To continue your QGIS journey, please explore these resources:
 - Yasuoka, J., Nanishi, K., Kikuchi, K., Suzuki, S., Ly, P., Thavrin, B., Omatsu, T., & Mizutani, T. (2018). Barriers for pregnant women living in rural, agricultural villages to accessing antenatal care in Cambodia: A community-based cross-sectional study combined with a geographic information system. PLOS ONE, 13(3), e0194103. https://doi.org/10.1371/journal.pone.0194103
 
 
-## Contribute
+## Feedback
 
 We welcome contributions and feedback! If you have suggestions, found errors, or want to contribute to the workshop materials, please email enquiry@farmerdecisionmaking.com or leanne.bannan@unimelb.edu.au
 
