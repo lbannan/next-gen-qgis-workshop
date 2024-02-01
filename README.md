@@ -2,13 +2,13 @@
 
 ## Overview
 
-Welcome to the Introduction to QGIS Workshop from the Next-Gen Agricultural Extension Project! This repository contains download links, resources and materials for a workshop created for the National University of Battambang (NUBB), Cambodia. The workshop is designed to introduce participants to the fundamentals of QGIS, a powerful open-source Geographic Information System (GIS) software.
+Welcome to the Introduction to QGIS Workshop from the Next-Gen Agricultural Extension Project! This repository contains download links, resources and materials for a workshop created for the National University of Battambang (NUBB), Cambodia. The workshop is designed to introduce participants to the fundamentals of QGIS, an open-source Geographic Information System (GIS) software.
 
 The workshop is a part of the Next-Generation Agricultural Extension project hosted at The University of Melbourne and funded by the Australian Centre for International Agricultural Research. Read more about the project [here](https://farmerdecisionmaking.com/project-2/).
 
 ## Workshop Details
 
-- **Date:** TBC February 2024
+- **Date:** 2 February 2024
 - **Time:** 9:00am - 12:00pm
 - **Location:** Room TBC, NUBB
 - **Lead Facilitator:** Le-Anne Bannan 
@@ -21,23 +21,28 @@ The workshop is a part of the Next-Generation Agricultural Extension project hos
 - [Downloads](#downloads)
 - [Further Resources](#further-resources)
 - [Contribute](#contribute)
+- [Feedback](#feedback)
 - [Credits](#credits)
 
 ## Getting Started
 
 To get started with the workshop, follow these steps:
 
-1. Review the workshop agenda(#workshop-agenda) and PowerPoint slides which cover the basics of GIS and spatial data.
-2. Download QGIS and the sample data from downloads(#downloads).
-3. Complete workshop 'worksheet' exercises found in the downloads(#downloads) folder.
-4. Continue your GIS journey by exploring the additional resources provided in Further Resources(#further-resources).
+1. Review the [workshop agenda](#workshop-agenda) and PowerPoint slides which cover the basics of GIS and spatial data.
+2. Download QGIS and the sample data from [downloads](#downloads).
+3. Complete workshop 'worksheet' exercises found in the [downloads](#downloads) folder.
+4. Continue your GIS journey by exploring the additional resources provided in [Further Resources](#further-resources).
 
 ## Workshop Agenda
 
-The workshop agenda outlines the topics that will be covered during the session. It is subject to change as the workshop is being developed.
+9:00: Start time
+9:00-10:00: What is GIS? Introduction to the uses of GIS in a Cambodian context, spatial data, data management and open-source communities
+10:00-10:30: Break
+10:30-12:00: QGIS Practical Workshop: Hands on workshop where participants will be able to use open-source data and software. At the end of the workshop, participants will have completed a map to assist with data driven decision making.
+12:00: Finish time
 
 ## Workshop PowerPoint
-The PowerPoint was presented at NUBB on TBC. The slides and recording are available under TBC.
+The PowerPoint was presented at NUBB on 2 February 2024. The slides and recording are available under for download here.
 
 ## Downloads
 
@@ -51,9 +56,28 @@ Before attending the workshop, you will need to download and install:
 
 To continue your QGIS journey, please explore these resources:
 
-- Additional resources
+# Tutorials and Guides
+- University of Massachusetts (UMass) GIS Hub: https://gis.library.umass.edu/learning-gis/tutorials/
+- 'Learn the Basics of QGIS' by Dr Rebecca Seifried: https://umass-gis.github.io/workshops/content/basics-qgis/
+- 'Demystifying Spatial Data' by Dr Sabin Zahirovic: https://protect-au.mimecast.com/s/TFE5CBNZkphVBEWmKtzB5nP?domain=zenodo.org
+- 'QGIS Training Tutorials' by Statistics Canada: https://www.youtube.com/watch?v=8oEnJvLzDnQ&list=PLhDwnGYSFgBHsRmrJmmOVbFi3uDBvz-FI&pp=iAQB
 
-Explore the [Materials](materials) folder for access to these resources.
+# Open source resources
+- University Consortium GIS&T Body of Knowledge: https://gistbok.ucgis.org/
+- QGIS Tutorials and Tips: https://www.qgistutorials.com/en/
+- QGIS Training Manual: https://docs.qgis.org/3.28/en/docs/training_manual/index.html
+
+# Academic writing and theory
+- Chang, K. T. (2015). Introduction to geographic information systems. Boston: Mcgraw-hill.
+- Evans, D. (2016). Airborne laser scanning as a method for exploring long-term socio-ecological dynamics in Cambodia. Journal of Archaeological Science, 74, 164–175. https://doi.org/10.1016/j.jas.2016.05.009
+- Goodchild, M. F., Yuan, M., & Cova, T. J. (2007). Towards a general theory of geographic representation in GIS. International Journal of Geographical Information Science, 21(3), 239–260. https://doi.org/10.1080/13658810600965271
+- Goodchild, M. F. (2009). Geographic information systems and science: Today and tomorrow. Procedia Earth and Planetary Science, 1(1), 1037–1043. https://doi.org/10.1016/j.proeps.2009.09.160
+- Frewer, T., & Chan, S. (2014). GIS and the ‘Usual Suspects’-[Mis]understanding Land Use Change in Cambodia. Human Ecology, 42(2), 267–281. https://doi.org/10.1007/s10745-013-9639-z
+- Griffin, A. L. (2020). Trustworthy maps. Journal of Spatial Information Science, 20, 5–19. https://doi.org/10.5311/JOSIS.2020.20.654
+- Khamsiri, S., Venunan, P., Khaokheiw, C., Silapanth, P., & Pailoplee, S. (2023). Reconstructing the ancient route network in the Thailand–Cambodia borders: A case study of the Angkorian Royal Road. Archaeological Prospection, arp.1897. https://doi.org/10.1002/arp.1897
+- Nelson, T. A., Goodchild, M. F., & Wright, D. J. (2022). Accelerating ethics, empathy, and equity in geographic information science. Proceedings of the National Academy of Sciences, 119(19), e2119967119. https://doi.org/10.1073/pnas.2119967119
+- Yasuoka, J., Nanishi, K., Kikuchi, K., Suzuki, S., Ly, P., Thavrin, B., Omatsu, T., & Mizutani, T. (2018). Barriers for pregnant women living in rural, agricultural villages to accessing antenatal care in Cambodia: A community-based cross-sectional study combined with a geographic information system. PLOS ONE, 13(3), e0194103. https://doi.org/10.1371/journal.pone.0194103
+
 
 ## Contribute
 
